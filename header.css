@@ -67,4 +67,11 @@
 .container__titulo--negrito{
     font-weight: 700;
 }
+.opcoes{
+display: flex;
+}
+.opcoes{
+    padding: 0 1em;
+    text-transorm: uppercase
+}
 }
